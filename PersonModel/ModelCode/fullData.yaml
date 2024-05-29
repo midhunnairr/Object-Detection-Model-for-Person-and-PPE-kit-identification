@@ -1,0 +1,6 @@
+#paths containing the training and validation data set
+train: /Users/midiy/OneDrive/Desktop/result/Out_Data/train
+val: /Users/midiy/OneDrive/Desktop/result/Out_Data/val
+
+nc: 1 # number of classes
+names: ['person']
