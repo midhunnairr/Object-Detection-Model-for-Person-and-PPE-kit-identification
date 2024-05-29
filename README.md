@@ -31,5 +31,10 @@ Results
 
 The model outputs bounding boxes around detected objects, along with their class labels (e.g., "person," "helmet," "vest"). You can visualize the results in real-time or on individual images.
 
+The inference file gives the code for accessing the models and is made in argparse format so as to interact directly through the Command Line Interface(CLI).
+PascalVOC to yolo file converts the given .xml files to .txt format for making it yolov8 friendly.
+split file is for splitting the dataset into training and validation test sets.
+
+
 The results are present in the result folder inside each model folder and the additional report on how the approach is done and how the model is made is also inserted in the repository.
 
