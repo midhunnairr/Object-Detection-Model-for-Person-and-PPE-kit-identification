@@ -1,0 +1,9 @@
+#training and validation paths
+
+train: \Users\midiy\OneDrive\Desktop\model_result\out\train
+val: \Users\midiy\OneDrive\Desktop\model_result\out\val
+
+nc: 9  # number of classes
+names: ['hard-hat','gloves','mask','glasses','boots','vest','ppe-suit','ear-protector','safety-harness']
+
+
